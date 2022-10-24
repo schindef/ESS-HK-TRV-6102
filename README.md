@@ -1,4 +1,4 @@
-# ESS-HK-TRV-6102 radiator valve from Essentials
+# Essentials ESS-HK-TRV-6102 radiator valve
 
 1. zigbee-herdsman-converter for zigbee2mqtt
 
